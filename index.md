@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+``` ![](https://upload.wikimedia.org/wikipedia/commons/c/cf/Keeshond_Sibirian_Husky_crossbreed_puppy.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
